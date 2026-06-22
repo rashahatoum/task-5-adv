@@ -9,11 +9,11 @@ import Footer from '../../components/Footer/Footer'
 import Slider from '../../components/Slider/Slider'
 
 const CardsData = [
-    { img: "/task-5-adv/assets/imgs/Mark Smith.png", name: "Alex Jones", desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit..." },
+    { img: "/task-5-adv/assets/imgs/Mark Smith.png", name: "Alex Jones", desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel." },
     { img: "/task-5-adv/assets/imgs/Andrew Rathore.png", name: "Andrew Rathore", desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel." },
     { img: "/task-5-adv/assets/imgs/Vera Duncan.png", name: "Vera Duncan", desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel." },
     { img: "/task-5-adv/assets/imgs/Mark Smith.png", name: "Mark Smith", desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel." },
-    { img: "/task-5-adv/assets/imgs/rasha hat.png", name: "rasha hat", desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit..." },
+    { img: "/task-5-adv/assets/imgs/rasha hat.png", name: "rasha hat", desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel." },
 ];
 
 const Home = () => {
