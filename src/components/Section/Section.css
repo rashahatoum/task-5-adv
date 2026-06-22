@@ -1,0 +1,67 @@
+.hero{
+    margin-top: 20vh;
+    margin-bottom: 15vh;
+}
+
+.btnContact{
+    padding: 10px 31px;
+    background-color: var(--secondaryColor);
+}
+
+.hero-title{
+    font-size: 64px;
+}
+
+.hero-desc{
+font-size: 18px;
+margin-bottom: 39px;
+}
+
+.section{
+    margin-bottom: 13vh;
+}
+
+.section-title{
+font-size: 48px;
+}
+
+.sectionWbg{
+    background-color: #F6F6F6;
+    border-radius: 20px;
+    padding: 24px 75px;
+}
+
+@media screen and (max-width:992px) {
+.hero{
+    margin-top: 170px;
+    margin-bottom: 120px;
+}
+
+.hero-title{
+    font-size: 40px;
+}
+.hero-desc{
+font-size: 16px;
+margin-bottom: 24px;
+}
+
+.section{
+margin-bottom: 120px !important;
+}
+
+.section-title{
+font-size: 32px;
+}
+
+.section-desc{
+font-size: 14px;
+}
+
+.sectionWbg{
+    padding: 48px 24px;
+
+    img{
+        display: none;
+    }
+}
+}

@@ -1,0 +1,37 @@
+.footerGroup{
+    background-color: #F6F6F6;
+}
+
+.listGroup {
+    padding-top: 105px;
+    padding-bottom: 110px;
+
+    .list-title {
+        font-size: 18px;
+        margin-bottom: 32px;
+    }
+
+    .footer-desc {
+        max-width: 189.29px;
+    }
+
+    .listWidth{
+        max-width: 190px;
+    }
+}
+
+.copy-right {
+    width: fit-content;
+    padding-bottom: 18px;
+}
+
+@media screen and (max-width:992px) {
+    .listGroup{
+        padding-top: 104px;
+        padding-bottom: 92px;
+
+        .list {
+            margin-bottom: 70px !important;
+        }
+    }
+}
